@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naina05
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning React.
 
 <!---
 Naina05/Naina05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
