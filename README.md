@@ -1,107 +1,89 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     PROFILE HEADER                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                  NAINA KUMARI | DEVOPS                    -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:6C63FF,100:00C9A7&height=220&section=header&text=Naina%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=20" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%E2%9A%99%EF%B8%8F;Azure+%7C+Terraform+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Linux;Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Improve" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Naina05">
-    <img src="https://img.shields.io/badge/GitHub-Naina05-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-6C63FF?style=for-the-badge&logo=icloud&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:6D28D9,100:0891B2&height=230&section=header&text=Naina%20Kumari&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=19&descAlignY=64&animation=fadeIn" width="100%"/>
 
 <br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Infrastructure+as+Code+%F0%9F%8F%97%EF%B8%8F;CI%2FCD+Automation+%E2%9A%A1;Docker+%7C+Kubernetes+%7C+Linux;Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Improve" />
 
-## 👋 Hey there!
+<br><br>
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212897827-7b7c3e9d-0e0c-4f7f-9b8e-4e9c6e7e3c4f.gif">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D9A6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/FOCUS-AZURE-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/MODE-AUTOMATION-A78BFA?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/ROLE-DEVOPS-EC4899?style=for-the-badge&labelColor=0F172A"/>
 
-I'm **Naina Kumari**, a **DevOps Engineer** passionate about cloud infrastructure,
-automation, CI/CD and building reliable deployment workflows.
+<br><br>
 
-### ☁️ What I work with
+<a href="https://github.com/Naina05">
+<img src="https://img.shields.io/badge/GitHub-Naina05-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 🏗️ Infrastructure as Code with **Terraform**
-- ☁️ Cloud infrastructure on **Microsoft Azure**
-- ⚙️ CI/CD automation with **GitHub Actions**
-- 🐳 Containerization with **Docker**
-- ☸️ Container orchestration with **Kubernetes**
-- 🐧 Linux & Unix administration
-- 🐍 Automation using **Python**
-- 📊 Monitoring & observability with **Grafana & Kibana**
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🎯 Currently focusing on
-
-`Azure` → `Terraform` → `CI/CD` → `Docker` → `Kubernetes` → `Monitoring`
-
-<br clear="right"/>
+</div>
 
 ---
 
-## 🛠️ My DevOps Toolkit
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,linux,bash,python,powershell,git&perline=5" />
-</p>
+### ⚡ `BUILD • AUTOMATE • DEPLOY • OBSERVE`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-6C63FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-00C9A7?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
+> **Infrastructure as Code** &nbsp; • &nbsp;
+> **Automate Everything** &nbsp; • &nbsp;
+> **Monitor Continuously** &nbsp; • &nbsp;
+> **Improve Relentlessly**
+
+</div>
 
 ---
 
-## ☁️ Cloud & Infrastructure
+# 👩‍💻 About Me
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="220">
+<td width="55%">
 
-### ☁️ Azure
+### Hey there! 👋
 
-Virtual Machines  
-Resource Groups  
-Networking  
-Storage  
-Cloud Infrastructure
+I'm **Naina Kumari**, a **DevOps Engineer** passionate about cloud infrastructure, automation, CI/CD and building reliable deployment workflows.
 
-</td>
+I enjoy turning complex infrastructure requirements into **simple, repeatable and automated solutions**.
 
-<td align="center" width="220">
+### 💫 What I do
 
-### 🏗️ Terraform
-
-Infrastructure as Code  
-Reusable Modules  
-Variables  
-State Management  
-Provider Configuration
+- ☁️ Build and manage **Azure infrastructure**
+- 🏗️ Automate infrastructure using **Terraform**
+- ⚡ Create **CI/CD workflows**
+- 🐳 Work with **Docker & containers**
+- ☸️ Explore **Kubernetes orchestration**
+- 🐧 Automate tasks using **Linux, Bash & PowerShell**
+- 🐍 Build automation using **Python**
+- 📊 Work with **monitoring & observability**
 
 </td>
 
-<td align="center" width="220">
+<td width="45%">
 
-### ⚙️ Automation
+### 🔮 Quick Facts
 
-GitHub Actions  
-CI/CD Pipelines  
-Bash  
-PowerShell  
-Python
+| | |
+|---|---|
+| 💼 **Role** | DevOps Engineer |
+| ☁️ **Cloud** | Microsoft Azure |
+| 🏗️ **IaC** | Terraform |
+| ⚡ **CI/CD** | GitHub Actions |
+| 🐳 **Containers** | Docker |
+| ☸️ **Orchestration** | Kubernetes |
+| 🐧 **OS** | Linux / Unix |
+| 🐍 **Scripting** | Python / Bash / PowerShell |
+| 📊 **Monitoring** | Grafana / Kibana |
 
 </td>
 </tr>
@@ -109,36 +91,84 @@ Python
 
 ---
 
-## 🚀 DevOps Workflow
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+
+### ☁️ CLOUD
+
+<img src="https://skillicons.dev/icons?i=azure" width="65"/>
+
+### 🏗️ INFRASTRUCTURE AS CODE
+
+<img src="https://skillicons.dev/icons?i=terraform" width="65"/>
+
+### ⚡ CI / CD
+
+<img src="https://skillicons.dev/icons?i=githubactions,git" />
+
+### 🐳 CONTAINERS & ORCHESTRATION
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+### 🐧 OPERATING SYSTEM
+
+<img src="https://skillicons.dev/icons?i=linux" width="65"/>
+
+### 💻 SCRIPTING & AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=bash,python,powershell" />
+
+### 📊 MONITORING
+
+<br>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+
+</div>
+
+---
+
+# ☁️ DevOps Workflow
+
+<div align="center">
 
 ```text
-        👩‍💻
-      Code Changes
-          │
-          ▼
-    ┌─────────────┐
-    │    Git      │
-    └──────┬──────┘
-           │
-           ▼
-   ┌─────────────────┐
-   │ GitHub Actions  │
-   │     CI / CD     │
-   └────────┬────────┘
-            │
-            ▼
-      ┌───────────┐
-      │ Terraform │
-      └─────┬─────┘
-            │
-            ▼
-       ☁️ Azure
-            │
-            ▼
-     🐳 Docker / ☸️
-       Kubernetes
-            │
-            ▼
-   📊 Monitor & Observe
+                     👩‍💻 CODE
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │     GIT      │
+                 └──────┬───────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │   ⚡ CI / CD       │
+              │ GitHub Actions    │
+              └─────────┬─────────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │   🏗️ TERRAFORM    │
+              │ Infrastructure    │
+              │    as Code        │
+              └─────────┬─────────┘
+                        │
+                        ▼
+                   ☁️ AZURE
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+              ▼                   ▼
+          🐳 DOCKER           ☸️ KUBERNETES
+              │                   │
+              └─────────┬─────────┘
+                        │
+                        ▼
+                 📊 MONITOR
+                        │
+                        ▼
+              🔔 ALERT → IMPROVE
+                        │
+                        └──────────► 🔁
